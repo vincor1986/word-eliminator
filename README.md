@@ -52,7 +52,7 @@ This experiment could be performed by participants remotely using the internet. 
 
 Before beginning their first session, participants should complete a questionnaire containing all questions from the Aberrant Salience Inventory (Cicero et al., 2010), the Cognitive Biases Questionnaire for Psychosis (Corral et al., 2021) and the Hypervigilance Scale (Knight & Herwitz, 2010). Participants should proceed to use the app once per day, playing through rounds until completion, for a period of five weeks. At the end of this time, the participants should complete the same questionnaire once again.
 
-It is hoped that through repetition, the user might take away an increased confidence in their ability to correctly identify and disregard irrelevant information, and potentially, an eventual decrease of aberrant salience attribution and/or hypervigilance. These positive outcomes are hoped to be demonstrated b their self-report measures.
+It is hoped that through repetition, the user might take away an increased confidence in their ability to correctly identify and disregard irrelevant information, and potentially, an eventual decrease of aberrant salience attribution and/or hypervigilance. These positive outcomes are hoped to be demonstrated within their self-report measures.
 
 The repeated action of successfully identifying irrelevant information might also reinforce this behaviour in the user. It is unusual, in my opinion, that positive feedback is received in everyday life for identifying that some specific information is irrelevant. It occurs to me that immediate positive feedback for effectively performing this essential behaviour might rarely be available to sufferers.
 
