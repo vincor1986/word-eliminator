@@ -50,7 +50,9 @@ Positive feedback has been found to be an efficient mechanism to improve perceiv
 
 This experiment could be performed by participants remotely using the internet. Participants should be adults, and should have been diagnosed with a mental health condition resulting in persistant hypervigilance and/or aberrant salience attribution.
 
-Before beginning their first session, participants should complete a questionnaire containing all questions from the Aberrant Salience Inventory (Cicero et al., 2010), the Cognitive Biases Questionnaire for Psychosis (Corral et al., 2021) and the Hypervigilance Scale (Knight & Herwitz, 2010). Participants should proceed to use the app once per day, playing through rounds until completion, for a period of five weeks. At the end of this time, the participants should complete the same questionnaire once again.
+Before beginning their first session, participants should complete a questionnaire containing all questions from the Aberrant Salience Inventory (Cicero et al., 2010), the Cognitive Biases Questionnaire for Psychosis (Corral et al., 2021) and the Hypervigilance Scale (Knight & Herwitz, 2010) along with questions about the participant's perceived self-efficacy relating to a number of cognitive processes including "identifying what is relevant in a situation" and "disregarding unimportant information".
+
+Participants should proceed to use the app once per day, playing through all 20 rounds until completion, for a period of five weeks. At the end of this time, the participants should complete the same questionnaire once more.
 
 It is hoped that through repetition, the user might take away an increased confidence in their ability to correctly identify and disregard irrelevant information, and potentially, an eventual decrease of aberrant salience attribution and/or hypervigilance. These positive outcomes are hoped to be demonstrated within their self-report measures.
 
