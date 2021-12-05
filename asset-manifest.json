@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/word-eliminator/static/css/main.02bb9438.chunk.css",
-    "main.js": "/word-eliminator/static/js/main.a8283d23.chunk.js",
-    "main.js.map": "/word-eliminator/static/js/main.a8283d23.chunk.js.map",
+    "main.css": "/word-eliminator/static/css/main.843025d6.chunk.css",
+    "main.js": "/word-eliminator/static/js/main.ba33f252.chunk.js",
+    "main.js.map": "/word-eliminator/static/js/main.ba33f252.chunk.js.map",
     "runtime-main.js": "/word-eliminator/static/js/runtime-main.2bd89a11.js",
     "runtime-main.js.map": "/word-eliminator/static/js/runtime-main.2bd89a11.js.map",
     "static/js/2.e9e67e9e.chunk.js": "/word-eliminator/static/js/2.e9e67e9e.chunk.js",
     "static/js/2.e9e67e9e.chunk.js.map": "/word-eliminator/static/js/2.e9e67e9e.chunk.js.map",
     "index.html": "/word-eliminator/index.html",
-    "static/css/main.02bb9438.chunk.css.map": "/word-eliminator/static/css/main.02bb9438.chunk.css.map",
+    "static/css/main.843025d6.chunk.css.map": "/word-eliminator/static/css/main.843025d6.chunk.css.map",
     "static/js/2.e9e67e9e.chunk.js.LICENSE.txt": "/word-eliminator/static/js/2.e9e67e9e.chunk.js.LICENSE.txt",
     "static/media/tick.8f0d74eb.svg": "/word-eliminator/static/media/tick.8f0d74eb.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2bd89a11.js",
     "static/js/2.e9e67e9e.chunk.js",
-    "static/css/main.02bb9438.chunk.css",
-    "static/js/main.a8283d23.chunk.js"
+    "static/css/main.843025d6.chunk.css",
+    "static/js/main.ba33f252.chunk.js"
   ]
 }
