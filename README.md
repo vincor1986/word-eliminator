@@ -2,7 +2,7 @@
 
 An app designed to test whether perceived self-efficacy in salience attribution contributes towards maintaining psychosis and/or hypervigilance
 
-Please note that I am NOT a psychology professional and this app has NOT been tested scientifically. The results of using this app long term are not known and the app should not be considered dependable for providing favourable results without stringent scrutiny and scientific validation. The overall hypothesis and concept have been reached through the experiences and research of the author who is a suffererer of symptoms of psychosis and draws on those experiences along with the statements and works cited below.
+Please note that I am NOT a psychology professional and this app has NOT been tested scientifically. The results of using this app long term are not known and the app should not be considered dependable for providing favourable results without stringent scrutiny and scientific validation. The overall hypothesis and concept have been reached through the experiences and research of the author who is a suffererer of psychosis symptoms and draws on those experiences along with the statements and works cited below.
 
 See the live app here: https://vincor1986.github.io/word-eliminator/
 
@@ -20,7 +20,9 @@ Tick image: Zendesk Garden (https://icon-icons.com/users/JlcNk1ZhwZ25hmdJ8NKHq/i
 
 Overview:
 
-This project focuses on the role of hypervigilance in cases of psychosis and PTSD, and how symptoms may be maintained by perceived self-efficacy in terms of appropriate salience attribution.
+This project focuses on the role of hypervigilance in cases of psychosis and PTSD, and how symptoms may be maintained by low self-efficacy in terms of appropriate salience attribution in some cases.
+
+Self-efficacy refers to an individual's assessment of their own capabilities to effectively cope with future demands (Bandura, 1983).
 
 Psychosis has many associations with trauma (Stevens, Spencer, & Turkington, 2017) including links to childhood trauma, experiences associated with specific genetic and/or organic neurodevelopmental vulnerabilities, psychosis as a result of PTSD and PTSD triggered as a result of acute psychosis.
 
@@ -46,7 +48,7 @@ The "Word Eliminator" App:
 
 "Word Eliminator" attempts to reinforce a more positive self assessment of the sufferer's ability to disregard irrelevant information through repetition of a word task, where the user is asked to dismiss unrelated words. Positive feedback is provided to the user upon each correct answer and the completion of a round.
 
-Positive feedback has been found to be an efficient mechanism to improve perceived self-efficacy (Brown et al., 2012). Self-efficacy refers to an individual's assessment of their own capabilities to effectively cope with future demands (Bandura, 1983). Positive feedback is delivered in the form of: (a) correct answers turning from blue to green, (b) a tick image appearing in place of the answer, (c) commending messages upon the completion of a round (such as "Good job!", "You're doing great!", and "You're a pro at this!"), (d) a rising progress bar that shows progress in green, (e) a final message to congratulate and commend the user upon completion of all rounds, and (f) animated multi-coloured confetti appearing on the screen (also raining down upon completion of all rounds).
+Positive feedback has been found to be an efficient mechanism to improve perceived self-efficacy (Brown et al., 2012). Positive feedback is delivered in the form of: (a) correct answers turning from blue to green, (b) a tick image appearing in place of the answer, (c) commending messages upon the completion of a round (such as "Good job!", "You're doing great!", and "You're a pro at this!"), (d) a rising progress bar that shows progress in green, (e) a final message to congratulate and commend the user upon completion of all rounds, and (f) animated multi-coloured confetti appearing on the screen (also raining down upon completion of all rounds).
 
 This experiment could be performed by participants remotely using the internet. Participants should be adults, and should have been diagnosed with a mental health condition resulting in persistant hypervigilance and/or aberrant salience attribution.
 
