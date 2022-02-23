@@ -2,7 +2,7 @@
 
 An app designed to test whether perceived self-efficacy in salience attribution contributes towards maintaining psychosis and/or hypervigilance
 
-Please note that I am NOT a psychology professional and this app has NOT been tested scientifically. The results of using this app long term are not known and the app should not be considered dependable for providing favourable results.
+Please note that I am NOT a psychology professional and this app has NOT been tested scientifically. The results of using this app long term are not known and the app should not be considered dependable for providing favourable results without stringent scrutiny and scientific validation. The overall hypothesis and concept have been reached through the experiences and research of the author who is a suffererer of symptoms of psychosis and draws on those experiences along with the statements and works cited below.
 
 See the live app here: https://vincor1986.github.io/word-eliminator/
 
