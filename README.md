@@ -1,6 +1,6 @@
 # word-eliminator
 
-An app designed to test whether perceived self-efficacy in salience attribution contributes towards maintaining psychosis and/or hypervigilance
+An app designed to test whether positive feedback in a cognitive task could lead to improved self-efficacy in salience attribution, which may in turn contribute towards a reduction in frequency or severity of psychosis or PTSD-related symptoms such as hypervigilance or aberrant salience.
 
 Please note that I am NOT a psychology professional and this app has NOT been tested scientifically. The results of using this app long term are not known and the app should not be considered dependable for providing favourable results without stringent scrutiny and scientific validation. The overall hypothesis and concept have been reached through the experiences and research of the author who is a suffererer of psychosis symptoms and draws on those experiences along with the statements and works cited below.
 
@@ -20,7 +20,7 @@ Tick image: Zendesk Garden (https://icon-icons.com/users/JlcNk1ZhwZ25hmdJ8NKHq/i
 
 Overview:
 
-This project focuses on the role of hypervigilance in cases of psychosis and PTSD, and how symptoms may be maintained by low self-efficacy in terms of appropriate salience attribution in some cases.
+This project focuses on the role of hypervigilance in cases of psychosis and PTSD, and how symptoms may be maintained in some cases by low self-efficacy in terms of appropriate salience attribution.
 
 Self-efficacy refers to an individual's assessment of their own capabilities to effectively cope with future demands (Bandura, 1983).
 
